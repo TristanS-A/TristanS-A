@@ -23,6 +23,15 @@ Having a passion for game development, programming, and just gaming in general, 
 
 #### 🎮 [Itch.io Link](https://tristansa.itch.io/touhou99)
 
+---
+
+### Portals
+
+![t](https://tristans-a.github.io/ImageStore/Portals.png)
+
+- Worked with a team of 2 other programmers to program portals in OpenGL.
+- Programmed rendering of recursive portals that clipped objects through them, using matrix tranformations.
+
 <!---
 TristanS-A/TristanS-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
