@@ -1,3 +1,5 @@
+#Hi I'm Tristan Schonfeldt-Aultman
+
 - 👋 Hi, I’m @TristanS-A
 - 👀 I’m interested in programming, video games, and mountain biking.
 - 🌱 I’m currently learning game programming and game development.
