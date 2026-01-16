@@ -1,5 +1,7 @@
 # Hi I'm Tristan Schonfeldt-Aultman
 
+![t](https://tristans-a.github.io/ImageStore/profile.jpg)
+
 - 👋 Hi, I’m @TristanS-A
 - 👀 I’m interested in programming, video games, and mountain biking.
 - 🌱 I’m currently learning game programming and game development.
