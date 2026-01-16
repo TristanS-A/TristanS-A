@@ -36,7 +36,7 @@ Having a passion for game development, programming, and just gaming in general, 
 
 ### Choo Choo Boom Boom (In Development)
 
-![t](https://tristans-a.github.io/ImageStore/CCBB.gif)
+![t](https://tristans-a.github.io/ImageStore/CCBB.gif) 
 
 - Worked on a team of 8 with majors in Game Design, Gamer Art, Sound Design, and Programming to create a game in one semester with the goal of getting our game greenlit by our school's faculty and alunmi.
 - Designed and programmed a veriety of systems, such as boss attacks and spline track systems, including track switching.
