@@ -11,6 +11,18 @@ Having a passion for game development, programming, and just gaming in general, 
 ### 📫 Email: tropicaltisa@gmail.com
 ### ⛓️ [LinkedIn](https://www.linkedin.com/in/tristan-schonfeldt-aultman/)
 
+# Projects:
+
+### Touhou99
+
+![t](https://tristans-a.github.io/ImageStore/Touhou99.png)
+
+- On a team with 2 other programmers, programmed a Touhou inspired LAN multiplayer game where 99 people could join.
+- Used Valve's GameNetworkingSockets and NET.Sockets to establish and maintain P2P UDP connections between computers, using a server/client framework.
+- Integrated networking into gameplay with visualization of other players in-game, networked inputs such as launching offensive bombs on other players screens, and a lobby system.
+
+#### 🎮 [Itch.io Link](https://tristansa.itch.io/touhou99)
+
 <!---
 TristanS-A/TristanS-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
