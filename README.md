@@ -1,5 +1,6 @@
 # Hi I'm Tristan Schonfeldt-Aultman
 
+![t](https://tristans-a.github.io/ImageStore/b.gif) 
 ![t](https://tristans-a.github.io/ImageStore/profile.png)
 
 
@@ -30,7 +31,6 @@ Having a passion for game development, programming, and just gaming in general, 
 ### Touhou99
 
 ![t](https://tristans-a.github.io/ImageStore/Touhou99.png)
-![t](https://tristans-a.github.io/ImageStore/b.gif) 
 
 - On a team with 2 other programmers, programmed a Touhou inspired LAN multiplayer game where 99 people could join.
 - Used Valve's GameNetworkingSockets and NET.Sockets to establish and maintain P2P UDP connections between computers, using a server/client framework.
