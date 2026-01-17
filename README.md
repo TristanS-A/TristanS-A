@@ -39,7 +39,7 @@ Having a passion for game development, programming, and just gaming in general, 
 
 ---
 
-### Recursive Portals
+### Assembly Object Dosging Game
 
 ![t](https://tristans-a.github.io/ImageStore/asm.png)
 
@@ -50,7 +50,7 @@ Having a passion for game development, programming, and just gaming in general, 
   
 ---
 
-### Assembly Object Dosging Game
+### Recursive Portals
 
 ![t](https://tristans-a.github.io/ImageStore/Portals.png)
 
