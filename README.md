@@ -15,7 +15,8 @@ Having a passion for game development, programming, and just gaming in general, 
 
 ### Choo Choo Boom Boom (In Development)
 
-![t](https://tristans-a.github.io/ImageStore/CCBB.gif) 
+![t](https://tristans-a.github.io/ImageStore/CCBB.gif)
+![t](https://tristans-a.github.io/ImageStore/trackSwitcher.gif)
 
 - Worked on a team of 8 with majors in Game Design, Gamer Art, Sound Design, and Programming to create a game in one semester with the goal of getting our game Greenlit by our school's faculty and alunmi.
 - Designed and programmed a veriety of systems, such as boss attacks and spline track systems, including track switching.
@@ -43,9 +44,10 @@ Having a passion for game development, programming, and just gaming in general, 
 
 ![t](https://tristans-a.github.io/ImageStore/hide.gif)
 ![t](https://tristans-a.github.io/ImageStore/weld.gif)
+![t](https://tristans-a.github.io/ImageStore/repair.gif)
 
 - Worked on a team with 7 others (who majored in Game Design, Game Art, Sound Design, and Game Programming) to make a 3 player multiplayer game in Unreal Engine in 12 weeks.
-- A diver, who roams the sea floor, and an engineer, residing inside a submarine, work together to fix underwater CRAB machines while a sea monster chases them down.
+- A diver, who roams the sea floor, and an engineer, residing inside a submarine who also has to focus on fixing submarine issues, work together to fix underwater CRAB machines while a sea monster chases them down.
 - Programmed multiplayer interactions with CRABs, shaders, gameplay, and sound implementation.
 - Practiced Agile Scrum methodology, regularely peer tested features/gameplay, and focused on rapid iterative prototyping.  
 
