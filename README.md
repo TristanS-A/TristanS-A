@@ -29,16 +29,28 @@ Having a passion for game development, programming, and just gaming in general, 
 
 ![t](https://tristans-a.github.io/ImageStore/t.gif) 
 
-- Worked on a team of 8 with majors in Game Design, Gamer Art, Sound Design, and Programming to create a game in one semester with the goal of getting our game greenlit by our school's faculty and alunmi.
+- Worked on a team of 8 with majors in Game Design, Gamer Art, Sound Design, and Programming to create a game in one semester with the goal of getting our game Greenlit by our school's faculty and alunmi.
 - Designed and programmed a veriety of systems, such as boss attacks and spline track systems, including track switching.
 - Programmed object-space and screen-space shaders utalizing render targets and Unity's Scriptable Render Pipeline.
 - Practiced Agile Scrum methodology and incorporated twice a week gameplay/feature testing.
+- Handled onboarding of 6 new developers (Art, Programming, Design) to our team after passing Greenlight with the intent to finish the game in the following semester and publish to Steam in May 2026
 
 #### 🎮 [Build Link](https://drive.google.com/file/d/1oiv7W3HoLcL-zo53yn78y0FfUSUNP2ZS/view?usp=sharing)
 
 ---
 
 ### Recursive Portals
+
+![t](https://tristans-a.github.io/ImageStore/asm.png)
+
+- Programmed a MASM Intel x84_64 windows console object dodging game, leveraging the Windows API.
+- Used functions and structs, as well as integrating high level c++ with the Assembly code to use high level libraries
+
+### [Github Repo Link](https://github.com/Draginalo/Assembly_Object_Dodging_Game.git)
+  
+---
+
+### Assembly Object Dosging Game
 
 ![t](https://tristans-a.github.io/ImageStore/Portals.png)
 
