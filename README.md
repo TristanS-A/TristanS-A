@@ -23,7 +23,7 @@ Having a passion for game development, programming, and just gaming in general, 
 - Designed and programmed a variety of systems, such as boss attacks and spline track systems, including track switching.
 - Programmed object-space and screen-space shaders utilizing render targets and Unity's Scriptable Render Pipeline.
 - Practiced Agile Scrum methodology, incorporated twice a week gameplay/feature peer testing, and focused on rapid iterative prototyping.
-- Handled onboarding of 6 new developers (Art, Programming, Design) to our team after passing Greenlight with the intent to finish the game in the following semester and publish to Steam in May 2026
+- Handled onboarding of 6 new developers (Art, Programming, Design) to our team after passing Greenlight with the intent to finish the game in the following semester and publish to Steam in May 2026.
 
 ### 🎮 [Build Link](https://drive.google.com/file/d/1oiv7W3HoLcL-zo53yn78y0FfUSUNP2ZS/view?usp=sharing)
     
@@ -58,8 +58,8 @@ Having a passion for game development, programming, and just gaming in general, 
 
 ![t](https://tristans-a.github.io/ImageStore/DomainExp.png)
 
-- Worked with a team of 6 others (who majored in Game Design, Game Art, Sound Design, and Game Programming) to program and submit a game for the 2025 Global Game Jam in 48 hours
-- Incorporated multiple diversifiers into the game, such as Y2K, Incognito, Melodic, and even Belongs in a Museum
+- Worked with a team of 6 others (who majored in Game Design, Game Art, Sound Design, and Game Programming) to program and submit a game for the 2025 Global Game Jam in 48 hours.
+- Incorporated multiple diversifiers into the game, such as Y2K, Incognito, Melodic, and even Belongs in a Museum.
 
 ### 🎮 [Itch.io Link](https://tristansa.itch.io/domain-expansion-global-game-jam-2025)
 
@@ -79,7 +79,7 @@ Having a passion for game development, programming, and just gaming in general, 
 ![t](https://tristans-a.github.io/ImageStore/asm.png)
 
 - Programmed a MASM Intel x84_64 windows console object dodging game, leveraging the Windows API.
-- Used functions and structs, as well as integrating high level c++ with the Assembly code to use high level libraries
+- Used asm functions and structs, as well as integrating high level c++ with the Assembly code to use high level libraries.
 
 ### ⛓️ [Github Repo Link](https://github.com/Draginalo/Assembly_Object_Dodging_Game.git)
 
