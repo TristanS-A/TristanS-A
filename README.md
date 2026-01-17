@@ -72,8 +72,6 @@ Having a passion for game development, programming, and just gaming in general, 
 - Worked as a team with 2 other programmers to program portals in OpenGL.
 - Programmed rendering of recursive portals that clipped objects through them, using matrix tranformations.
 
-### ⛓️ [Github Repo Link](https://github.com/TristanS-A/GraphicsPortals)
-
 ---
 
 ### Assembly Object Dodging Game
