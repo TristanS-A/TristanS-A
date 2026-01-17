@@ -1,6 +1,5 @@
 # Hi I'm Tristan Schonfeldt-Aultman
 
-![t](https://tristans-a.github.io/ImageStore/hide.gif) 
 ![t](https://tristans-a.github.io/ImageStore/profile.png)
 
 
@@ -37,6 +36,16 @@ Having a passion for game development, programming, and just gaming in general, 
 - Integrated networking into gameplay with visualization of other players in-game, networked inputs such as launching offensive bombs that can hurt other players, and a lobby system.
 
 #### 🎮 [Itch.io Link](https://tristansa.itch.io/touhou99)
+
+---
+
+### Lurking Below
+
+![t](https://tristans-a.github.io/ImageStore/hide.gif)
+![t](https://tristans-a.github.io/ImageStore/weld.gif)
+
+- Worked as a team with 2 other programmers to program portals in OpenGL.
+- Programmed rendering of recursive portals that clipped objects through them, using matrix tranformations.
 
 ---
 
