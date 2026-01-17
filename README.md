@@ -71,6 +71,7 @@ Having a passion for game development, programming, and just gaming in general, 
 
 - Worked as a team with 2 other programmers to program portals in OpenGL.
 - Programmed rendering of recursive portals that clipped objects through them, using matrix tranformations.
+- 
 ---
 
 ### Assembly Object Dodging Game
@@ -81,6 +82,17 @@ Having a passion for game development, programming, and just gaming in general, 
 - Used functions and structs, as well as integrating high level c++ with the Assembly code to use high level libraries
 
 ### ⛓️ [Github Repo Link](https://github.com/Draginalo/Assembly_Object_Dodging_Game.git)
+
+---
+
+### Road Generation on Procedural Terrain
+
+![t](https://tristans-a.github.io/ImageStore/road.png)
+
+- Performed Anisotropic A* pathfinding on procedural terrain using a heightmap to generate a road that a car will travel on. Steepness of the terrain and road segment length would be taken into account, using an anisotropic grid to find the cheapest path to take.
+- Programmed water erosion that could also be performed on the terrain. Road generation could also be triggered after erosion.
+
+### ⛓️ [Github Repo Link](https://github.com/TristanS-A/Scenario-Generation)
 
 <!---
 TristanS-A/TristanS-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
