@@ -19,6 +19,7 @@ Having a passion for game development, programming, and just gaming in general, 
 ![t](https://tristans-a.github.io/ImageStore/trackSwitching.gif)
 
 - Worked on a team of 8 with majors in Game Design, Gamer Art, Sound Design, and Programming to create a game in one semester with the goal of getting our game Greenlit by our school's faculty and alunmi.
+- Unique take on the on-rails shooter genre where you play as a gunner on a public defence team that has strapped a gun to a train in order to fight a giant monster attacking your city.
 - Designed and programmed a veriety of systems, such as boss attacks and spline track systems, including track switching.
 - Programmed object-space and screen-space shaders utalizing render targets and Unity's Scriptable Render Pipeline.
 - Practiced Agile Scrum methodology, incorporated twice a week gameplay/feature peer testing, and focused on rapid iterative prototyping.
