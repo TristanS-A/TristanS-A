@@ -65,7 +65,7 @@ Having a passion for game development, programming, and just gaming in general, 
 - Programmed a MASM Intel x84_64 windows console object dodging game, leveraging the Windows API.
 - Used functions and structs, as well as integrating high level c++ with the Assembly code to use high level libraries
 
-### [Github Repo Link](https://github.com/Draginalo/Assembly_Object_Dodging_Game.git)
+### ⛓️ [Github Repo Link](https://github.com/Draginalo/Assembly_Object_Dodging_Game.git)
 
 <!---
 TristanS-A/TristanS-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
