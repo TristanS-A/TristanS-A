@@ -20,7 +20,7 @@ Having a passion for game development, programming, and just gaming in general, 
 - Worked on a team of 8 with majors in Game Design, Gamer Art, Sound Design, and Programming to create a game in one semester with the goal of getting our game Greenlit by our school's faculty and alunmi.
 - Designed and programmed a veriety of systems, such as boss attacks and spline track systems, including track switching.
 - Programmed object-space and screen-space shaders utalizing render targets and Unity's Scriptable Render Pipeline.
-- Practiced Agile Scrum methodology and incorporated twice a week gameplay/feature testing.
+- Practiced Agile Scrum methodology, incorporated twice a week gameplay/feature peer testing, and focused on rapid iterative prototyping.
 - Handled onboarding of 6 new developers (Art, Programming, Design) to our team after passing Greenlight with the intent to finish the game in the following semester and publish to Steam in May 2026
 
 #### 🎮 [Build Link](https://drive.google.com/file/d/1oiv7W3HoLcL-zo53yn78y0FfUSUNP2ZS/view?usp=sharing)
@@ -44,8 +44,9 @@ Having a passion for game development, programming, and just gaming in general, 
 ![t](https://tristans-a.github.io/ImageStore/hide.gif)
 ![t](https://tristans-a.github.io/ImageStore/weld.gif)
 
-- Worked as a team with 2 other programmers to program portals in OpenGL.
-- Programmed rendering of recursive portals that clipped objects through them, using matrix tranformations.
+- Worked on a team with 7 others (who majored in Game Design, Game Art, Sound Design, and Game Programming) to make a multiplayer game in Unreal Engine in 12 weeks.
+- Practiced Agile Scrum methodology, regularely peer tested features/gameplay, and focused on rapid iterative prototyping.  
+- Programmed multiplayer interactions with CRABs, shaders, gameplay, and sound implementation.
 
 ---
 
