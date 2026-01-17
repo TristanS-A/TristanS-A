@@ -25,15 +25,6 @@ Having a passion for game development, programming, and just gaming in general, 
 
 ---
 
-### Recursive Portals
-
-![t](https://tristans-a.github.io/ImageStore/Portals.png)
-
-- Worked as a team with 2 other programmers to program portals in OpenGL.
-- Programmed rendering of recursive portals that clipped objects through them, using matrix tranformations.
-
----
-
 ### Choo Choo Boom Boom (In Development)
 
 ![t](https://tristans-a.github.io/ImageStore/t.gif) 
@@ -41,8 +32,18 @@ Having a passion for game development, programming, and just gaming in general, 
 - Worked on a team of 8 with majors in Game Design, Gamer Art, Sound Design, and Programming to create a game in one semester with the goal of getting our game greenlit by our school's faculty and alunmi.
 - Designed and programmed a veriety of systems, such as boss attacks and spline track systems, including track switching.
 - Programmed object-space and screen-space shaders utalizing render targets and Unity's Scriptable Render Pipeline.
+- Practiced Agile Scrum methodology and incorporated twice a week gameplay/feature testing.
 
 #### 🎮 [Build Link](https://drive.google.com/file/d/1oiv7W3HoLcL-zo53yn78y0FfUSUNP2ZS/view?usp=sharing)
+
+---
+
+### Recursive Portals
+
+![t](https://tristans-a.github.io/ImageStore/Portals.png)
+
+- Worked as a team with 2 other programmers to program portals in OpenGL.
+- Programmed rendering of recursive portals that clipped objects through them, using matrix tranformations.
 
 <!---
 TristanS-A/TristanS-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
