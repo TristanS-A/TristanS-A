@@ -5,7 +5,7 @@
 
 #### Generalist Programmer with a focus on Systems Programming, Graphics, Gameplay, and Networking
 
-Having a passion for game development, programming, and just gaming in general, I am eager to create gaming experiences for people to enjoy and tackle challenging problems as I pursue a BS in Game Programming at Champlain College, as well as a double minor in Mathematics and CSI. I began studying programming in my junior year high school, I am doing my best to be as knowledgeable and confident in the area as I can be. I am also on the Splatoon Esports team for Champlain College and have a fondness for mountain biking, as well as other outdoor activities. Definitely on the lookout for internships in the gaming industry.
+Having a passion for game development, programming, and just gaming in general, I am eager to create gaming experiences for people to enjoy and tackle challenging problems as I pursue a BS in Game Programming at Champlain College, as well as a double minor in Mathematics and CSI. I began studying programming in my junior year of high school, and have since been doing my best to be as knowledgeable and confident in the area as I can be. I am also on the Splatoon Esports team for Champlain College and have a fondness for mountain biking, as well as other outdoor activities. Definitely on the lookout for internships in the gaming industry.
 
 
 ### 📫 Email: tropicaltisa@gmail.com
@@ -18,10 +18,10 @@ Having a passion for game development, programming, and just gaming in general, 
 ![t](https://tristans-a.github.io/ImageStore/CCBB.gif)
 ![t](https://tristans-a.github.io/ImageStore/trackSwitching.gif)
 
-- Worked on a team of 8 with majors in Game Design, Gamer Art, Sound Design, and Programming to create a game in one semester with the goal of getting our game Greenlit by our school's faculty and alunmi.
+- Worked on a team of 8 with majors in Game Design, Gamer Art, Sound Design, and Programming to create a game in one semester with the goal of getting our game Greenlit by our school's faculty and alumni.
 - Unique take on the on-rails shooter genre where you play as a gunner on a public defence team that has strapped a gun to a train in order to fight a giant monster attacking your city.
-- Designed and programmed a veriety of systems, such as boss attacks and spline track systems, including track switching.
-- Programmed object-space and screen-space shaders utalizing render targets and Unity's Scriptable Render Pipeline.
+- Designed and programmed a variety of systems, such as boss attacks and spline track systems, including track switching.
+- Programmed object-space and screen-space shaders utilizing render targets and Unity's Scriptable Render Pipeline.
 - Practiced Agile Scrum methodology, incorporated twice a week gameplay/feature peer testing, and focused on rapid iterative prototyping.
 - Handled onboarding of 6 new developers (Art, Programming, Design) to our team after passing Greenlight with the intent to finish the game in the following semester and publish to Steam in May 2026
 
@@ -50,7 +50,7 @@ Having a passion for game development, programming, and just gaming in general, 
 - Worked on a team with 7 others (who majored in Game Design, Game Art, Sound Design, and Game Programming) to make a 3 player multiplayer game in Unreal Engine in 12 weeks.
 - A diver, who roams the sea floor, and an engineer, residing inside a submarine who also has to focus on fixing submarine issues, work together to fix underwater CRAB machines while a sea monster chases them down.
 - Programmed multiplayer interactions with CRABs, shaders, gameplay, and sound implementation.
-- Practiced Agile Scrum methodology, regularely peer tested features/gameplay, and focused on rapid iterative prototyping.  
+- Practiced Agile Scrum methodology, regularly peer tested features/gameplay, and focused on rapid iterative prototyping.  
 
 ---
 
@@ -70,7 +70,7 @@ Having a passion for game development, programming, and just gaming in general, 
 ![t](https://tristans-a.github.io/ImageStore/Portals.png)
 
 - Worked as a team with 2 other programmers to program portals in OpenGL.
-- Programmed rendering of recursive portals that clipped objects through them, using matrix tranformations.
+- Programmed rendering of recursive portals that clip objects through them, using matrix transformations and framebuffer management.
 
 ---
 
