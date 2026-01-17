@@ -45,7 +45,7 @@ Having a passion for game development, programming, and just gaming in general, 
 ![t](https://tristans-a.github.io/ImageStore/weld.gif)
 
 - Worked on a team with 7 others (who majored in Game Design, Game Art, Sound Design, and Game Programming) to make a 3 player multiplayer game in Unreal Engine in 12 weeks.
-- A diver and engineer work together to fix underwater CRAB machines while a sea monster chases them down.
+- A diver, who roams the sea floor, and an engineer, residing inside a submarine, work together to fix underwater CRAB machines while a sea monster chases them down.
 - Programmed multiplayer interactions with CRABs, shaders, gameplay, and sound implementation.
 - Practiced Agile Scrum methodology, regularely peer tested features/gameplay, and focused on rapid iterative prototyping.  
 
