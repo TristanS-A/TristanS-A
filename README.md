@@ -25,7 +25,7 @@ Having a passion for game development, programming, and just gaming in general, 
 - Practiced Agile Scrum methodology, incorporated twice a week gameplay/feature peer testing, and focused on rapid iterative prototyping.
 - Handled onboarding of 6 new developers (Art, Programming, Design) to our team after passing Greenlight with the intent to finish the game in the following semester and publish to Steam in May 2026
 
-#### 🎮 [Build Link](https://drive.google.com/file/d/1oiv7W3HoLcL-zo53yn78y0FfUSUNP2ZS/view?usp=sharing)
+### 🎮 [Build Link](https://drive.google.com/file/d/1oiv7W3HoLcL-zo53yn78y0FfUSUNP2ZS/view?usp=sharing)
     
 ---
 
@@ -37,7 +37,7 @@ Having a passion for game development, programming, and just gaming in general, 
 - Used Valve's GameNetworkingSockets and NET.Sockets to establish and maintain P2P UDP connections between computers, using a server/client framework.
 - Integrated networking into gameplay with visualization of other players in-game, networked inputs such as launching offensive bombs that can hurt other players, and a lobby system.
 
-#### 🎮 [Itch.io Link](https://tristansa.itch.io/touhou99)
+### 🎮 [Itch.io Link](https://tristansa.itch.io/touhou99)
 
 ---
 
@@ -61,7 +61,7 @@ Having a passion for game development, programming, and just gaming in general, 
 - Worked with a team of 6 others (who majored in Game Design, Game Art, Sound Design, and Game Programming) to program and submit a game for the 2025 Global Game Jam in 48 hours
 - Incorporated multiple diversifiers into the game, such as Y2K, Incognito, Melodic, and even Belongs in a Museum
 
-#### 🎮 [Itch.io Link](https://tristansa.itch.io/domain-expansion-global-game-jam-2025)
+### 🎮 [Itch.io Link](https://tristansa.itch.io/domain-expansion-global-game-jam-2025)
 
 ---
 
@@ -71,7 +71,9 @@ Having a passion for game development, programming, and just gaming in general, 
 
 - Worked as a team with 2 other programmers to program portals in OpenGL.
 - Programmed rendering of recursive portals that clipped objects through them, using matrix tranformations.
-  
+
+### ⛓️ [Github Repo Link](https://github.com/TristanS-A/GraphicsPortals)
+
 ---
 
 ### Assembly Object Dodging Game
