@@ -1,6 +1,6 @@
 # Hi I'm Tristan Schonfeldt-Aultman
 
-![t](https://tristans-a.github.io/ImageStore/hide.gif) 
+![t](https://tristans-a.github.io/ImageStore/below.gif) 
 ![t](https://tristans-a.github.io/ImageStore/profile.png)
 
 
